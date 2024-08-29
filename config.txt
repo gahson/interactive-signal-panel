@@ -1,0 +1,35 @@
+# Konfiguracja panelu
+{ 'dev': 'GLOBAL', 'title': 'Panel Wirtualny', 'geometry': '800x600+100+100' }
+
+# Etykiety tekstowe
+{ 'dev': 'TEXT', 'text': 'Przykladowy napis', 'size': 24, 'color': 'black', 'x': 350, 'y': 30 }
+{ 'dev': 'TEXT', 'text': 'A', 'size': 14, 'color': 'black', 'x': 115, 'y': 145 }
+{ 'dev': 'TEXT', 'text': 'B', 'size': 14, 'color': 'black', 'x': 145, 'y': 145 }
+{ 'dev': 'TEXT', 'text': 'C', 'size': 14, 'color': 'black', 'x': 175, 'y': 145 }
+{ 'dev': 'TEXT', 'text': 'D', 'size': 14, 'color': 'black', 'x': 205, 'y': 145 }
+{ 'dev': 'TEXT', 'text': 'X0 ... X7', 'size': 14, 'color': 'black', 'x': 420, 'y': 145 }
+
+
+# Diody LED
+{ 'dev': 'LED', 'size': 15, 'x': 110, 'y': 110, 'color': 'white' }
+{ 'dev': 'LED', 'size': 15, 'x': 140, 'y': 110, 'color': 'red' }
+{ 'dev': 'LED', 'size': 15, 'x': 170, 'y': 110, 'color': 'green' }
+{ 'dev': 'LED', 'size': 15, 'x': 200, 'y': 110, 'color': 'yellow' }
+
+# Pasek LED
+{ 'dev': 'BAR', 'len': 8, 'size': 15, 'x': 378, 'y': 100, 'color': 'blue' }
+
+# Przełącznik dwustanowy
+{ 'dev': 'SWITCH', 'size': 30, 'x': 370, 'y': 205 }
+{ 'dev': 'SWITCH', 'size': 30, 'x': 400, 'y': 205 }
+{ 'dev': 'SWITCH', 'size': 30, 'x': 430, 'y': 205 }
+{ 'dev': 'SWITCH', 'size': 30, 'x': 460, 'y': 205 }
+
+# Przycisk monostabilny
+{ 'dev': 'BUTTON', 'size': 15, 'x': 110, 'y': 220, 'active': 1 }
+{ 'dev': 'BUTTON', 'size': 15, 'x': 140, 'y': 220, 'active': 1 }
+{ 'dev': 'BUTTON', 'size': 15, 'x': 170, 'y': 220, 'active': 0 }
+{ 'dev': 'BUTTON', 'size': 15, 'x': 200, 'y': 220, 'active': 0 }
+
+
+
