@@ -19,17 +19,15 @@
 # Pasek LED
 { 'dev': 'BAR', 'len': 8, 'size': 15, 'x': 378, 'y': 100, 'color': 'blue' }
 
-# Przełącznik dwustanowy
-{ 'dev': 'SWITCH', 'size': 30, 'x': 370, 'y': 205 }
-{ 'dev': 'SWITCH', 'size': 30, 'x': 400, 'y': 205 }
-{ 'dev': 'SWITCH', 'size': 30, 'x': 430, 'y': 205 }
-{ 'dev': 'SWITCH', 'size': 30, 'x': 460, 'y': 205 }
-
 # Przycisk monostabilny
 { 'dev': 'BUTTON', 'size': 15, 'x': 110, 'y': 220, 'active': 1 }
 { 'dev': 'BUTTON', 'size': 15, 'x': 140, 'y': 220, 'active': 1 }
 { 'dev': 'BUTTON', 'size': 15, 'x': 170, 'y': 220, 'active': 0 }
 { 'dev': 'BUTTON', 'size': 15, 'x': 200, 'y': 220, 'active': 0 }
 
-
+# Przełącznik dwustanowy
+{ 'dev': 'SWITCH', 'size': 30, 'x': 370, 'y': 205 }
+{ 'dev': 'SWITCH', 'size': 30, 'x': 400, 'y': 205 }
+{ 'dev': 'SWITCH', 'size': 30, 'x': 430, 'y': 205 }
+{ 'dev': 'SWITCH', 'size': 30, 'x': 460, 'y': 205 }
 
