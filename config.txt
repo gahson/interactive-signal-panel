@@ -2,7 +2,7 @@
 { 'dev': 'GLOBAL', 'title': 'Panel Wirtualny', 'geometry': '800x600+100+100' }
 
 # Etykiety tekstowe
-{ 'dev': 'TEXT', 'text': 'Przykladowy napis', 'size': 24, 'color': 'black', 'x': 350, 'y': 30 }
+{ 'dev': 'TEXT', 'text': 'signal simulator', 'size': 24, 'color': 'black', 'x': 350, 'y': 30 }
 { 'dev': 'TEXT', 'text': 'A', 'size': 14, 'color': 'black', 'x': 115, 'y': 145 }
 { 'dev': 'TEXT', 'text': 'B', 'size': 14, 'color': 'black', 'x': 145, 'y': 145 }
 { 'dev': 'TEXT', 'text': 'C', 'size': 14, 'color': 'black', 'x': 175, 'y': 145 }
